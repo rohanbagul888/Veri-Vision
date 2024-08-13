@@ -1,7 +1,5 @@
-![image](https://github.com/mytechnotalent/deepfake-detector/blob/main/deepfake-detector.png?raw=true)
 
-## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
-
+\
 <br>
 
 # Deepfake Detector
@@ -35,16 +33,9 @@ This dataset provides detailed information and images for deepfake detection. It
 ## Model
 We will use a convolutional neural network (CNN) for this task. The CNN is suitable for image classification tasks and will help in understanding the relationship between the image pixels and the label (REAL or FAKE).
 
-## Credits
+## Credits:
 
-**Dataset Author:**  
-* Trung-Nghia Le
-
-**Model Author:**  
-* Kevin Thomas
-
-**Date:**  
-* 07-12-24  
+Author: Rohan Bagul
 
 **Version:**  
 * 1.0
