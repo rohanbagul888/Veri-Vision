@@ -1122,17 +1122,7 @@ python inference.py
 ## Dataset Reference
 Kaggle Dataset [HERE](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images)
 
-## Dataset Citation
-```
-@ Inproceedings{ltnghia-ICCV2021,
-  Title          = {OpenForensics: Large-Scale Challenging Dataset For 
-Multi-Face Forgery Detection And Segmentation In-The-Wild},
-  Author         = {Trung-Nghia Le and Huy H. Nguyen and Junichi Yamagishi 
-and Isao Echizen},
-  BookTitle      = {International Conference on Computer Vision},
-  Year           = {2021}, 
-}
-```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
