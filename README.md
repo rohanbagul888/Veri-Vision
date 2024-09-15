@@ -2,8 +2,8 @@
 \
 <br>
 
-# Deepfake Detector
-Deepfake Detector is an AI/ML model designed to detect AI-generated or manipulated images.
+# Veri-Vision
+Veri-Vision is an AI/ML model designed to detect AI-generated or manipulated images.
 
 <br><br>
 
